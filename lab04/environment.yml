@@ -1,0 +1,9 @@
+name: eratosthenes
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+prefix: /home/jovyan/envs/eratosthenes
